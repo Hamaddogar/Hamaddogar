@@ -5,7 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamaddogar" alt="hamaddogar" /></a> </p>
 
-- 🔭 I’m currently working on **Over**
+- 🔭 I’m currently working on [Over ZAKI](https://overzaki-dashboard-main.vercel.app/)
+
+- 🌱 I’m currently learning **Machine Learning & WEB 3.0**
+
+- 💬 Ask me about **MERN ,Next JS ,React JS ,PERN**
+
+- 📫 How to reach me **hamad.softdev@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
