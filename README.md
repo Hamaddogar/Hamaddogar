@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Muhammad Hamad</h1>
-<h3 align="center">I am a highly skilled Full Stack Developer with 5+ years of experience building dynamic and scalable web applications using the MERN, Next.js, and PERN stacks. Proven ability to design, develop, and deploy front-end and back-end components, ensuring high-quality code and timely delivery. Adept at solving complex problems, proactively suggesting improvements, and staying current with the latest technologies. Passionate about creating exceptional user experiences that drive business growth. Eager to contribute my skills and experience to your team.</h3>
+# Hi 👋, I'm Muhammad Hamad
+
+I am a highly skilled Full Stack Developer with 5+ years of experience building dynamic and scalable web applications using the MERN, Next.js, and PERN stacks. Proven ability to design, develop, and deploy front-end and back-end components, ensuring high-quality code and timely delivery. Adept at solving complex problems, proactively suggesting improvements, and staying current with the latest technologies. Passionate about creating exceptional user experiences that drive business growth. Eager to contribute my skills and experience to your team.
+
+![Muhammad Hamad](https://camo.githubusercontent.com/f1f2bc6e7ec110b34bab4ec55aa5c93ebae552ae011f5756bd7b7f783d627a6d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamaddogar&label=Profile%20views&color=0e75b6&style=flat" alt="hamaddogar" /> </p>
 
