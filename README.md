@@ -1,5 +1,5 @@
 | | |
-|---|---|
+
 | **Hi, I'm Muhammad Hamad**<br>
 I am a highly skilled Full Stack Developer with 5+ years of experience building dynamic
 <br>and scalable web applications using the MERN, Next.js, and PERN stacks. <br>
